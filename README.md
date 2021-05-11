@@ -6,4 +6,4 @@ Features:
 - Rename all files in folder
 - Clean folder
 - Delete files
-- Open any files
+- Open any file
